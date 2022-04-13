@@ -1,0 +1,52 @@
+*{
+ padding: 0px;
+ margin: 10px;
+}
+
+.div1{
+ width: 100px;
+ height: 200px;
+ background-color: darksalmon;
+ width: 30%;
+}
+
+.div2{
+ margin-top: -5px;
+}
+.p{
+ display: flex;
+ 
+}
+
+#read{
+ color: coral;
+ font-size: 18px;
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: bold;
+}
+
+
+.divmain{
+ display: flex;
+}
+
+.div4{
+ padding: 10px;
+ background-color: rgb(231, 230, 230);
+ 
+}
+
+.divp{
+ width: 70%;
+}
+.divp2{
+ width: 29%;
+}
+.link{
+ margin-top: 10px;
+ color: coral;
+ font-size: 16px;
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: bold;
+ 
+}
